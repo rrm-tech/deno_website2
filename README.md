@@ -4,7 +4,7 @@
 
 This is the code for https://deno.land/
 
-This website consists of two parts
+This website consists of two parts.
 
 1. A Cloudflare Worker
 2. A Next.js app hosted on Vercel
